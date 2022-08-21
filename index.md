@@ -1,3 +1,22 @@
+{::nomarkdown}
+<!-- modify this form HTML and place wherever you want your form -->
+<form
+  action="https://formspree.io/f/meqdojwe"
+  method="POST"
+>
+  <label>
+    Your email:
+    <input type="email" name="email">
+  </label>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
+  <!-- your other form fields go here -->
+  <button type="submit">Send</button>
+</form>
+{:/nomarkdown}
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/fabcode-xyz/fabcode.xyz/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.

@@ -1,5 +1,5 @@
-theme: jekyll-theme-cayman
 title: FabCode
 description: GUI based programming for next gen development
 github:
   repository_url: https://github.com/fabcode-xyz/fabcode
+theme: jekyll-theme-cayman
